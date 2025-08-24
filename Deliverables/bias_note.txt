@@ -1,0 +1,7 @@
+The Titanic dataset is not fully representative of real-world populations. 
+It reflects a specific early 20th-century passenger group, strongly shaped by class and gender. 
+Survival patterns were influenced by the “women and children first” policy, making gender a key predictor. 
+Wealthier, first-class passengers had better survival chances than third-class passengers, 
+introducing socioeconomic bias. Moreover, many records (like Cabin) are missing, limiting spatial insights. 
+This makes the dataset useful for machine learning education but not for drawing general conclusions 
+about disaster survival in modern contexts.

@@ -1,0 +1,6 @@
+PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Cabin,CabinFlag,FamilySize,IsAlone,Sex_male,Embarked_S,Title_Mr,Title_Mrs
+1,0,3,"Braund, Mr. Owen Harris",22.0,1,0,A/5 21171,2.1102132003465894,,0,2,0,1,1,1,0
+2,1,1,"Cumings, Mrs. John Bradley",38.0,1,0,PC 17599,4.2805931204649,C85,1,2,0,0,0,0,1
+3,1,3,"Heikkinen, Miss. Laina",26.0,0,0,STON/O2. 3101282,2.1888563276657025,,0,1,1,0,1,0,0
+4,1,1,"Futrelle, Mrs. Jacques Heath",35.0,1,0,113803,3.9908341858524357,C123,1,2,0,0,1,0,1
+5,0,3,"Allen, Mr. William Henry",30.5,0,0,373450,2.2027647577118348,,0,1,1,1,1,1,0
